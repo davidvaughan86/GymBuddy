@@ -9,3 +9,9 @@ This is a react app with attached server
 -users can set gym goals
 -users can use a preset workout list
 -users can create a custome workout list
+
+-the problem-
+finding a good work out partner in your area or in your gym
+
+-the goal-
+to bring likeminded users together in a safe place to discover new workout friends
